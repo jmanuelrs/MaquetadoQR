@@ -1,0 +1,36 @@
+body {
+    background: #d5e1ef;
+    height: 100%;
+    width: 100%;
+    padding: 90px 400px;
+    margin: auto;
+}
+.card-container{
+    background: #ffffff;
+    border-radius: 30px;
+    box-shadow: 0px 15px 15px  rgb(175, 175, 175);
+    display: inline-block;
+    overflow: hidden;
+    padding: 40px;
+}
+.card-container .qrContainer {
+    background: rgb(1 100 247);
+    border-radius: 15px;
+    padding: 40px;
+    
+}
+.card-container .qrContainer img {
+   
+    width: 650px;
+    height: auto;
+}
+h1{
+    font-size: 60px;
+   
+    text-align: center;
+
+}
+p{
+    font-size: 45px;
+    text-align: center;
+}
